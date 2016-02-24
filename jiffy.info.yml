@@ -1,0 +1,16 @@
+name: jiffy
+description: Theme for jiffy
+type: theme
+core: 8.x
+libraries:
+ - jiffy/global-lib
+regions:
+  header: Header
+  breadcrumb: Breadcrumb
+  banner: Banner
+  content_top: 'Content Top'
+  content: 'Content'
+  content_bottom: 'Content Bottom'
+  action: 'Call to action'
+  footer_top: 'Footer Top'
+  footer_bottom: 'Footer Bottom'
